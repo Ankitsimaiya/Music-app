@@ -44,7 +44,7 @@ function FeaturedCourses() {
                 ))}
              </div>
         </div>
-        <div className="mt-20 text-center  ">
+        <div className="mt-20 text-center ">
             <Link className="p-2 bg-slate-400 text-black rounded-md " href={'/courses'} >View All Courses</Link>
         </div>
       </div>
